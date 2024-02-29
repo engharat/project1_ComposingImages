@@ -1,6 +1,7 @@
 In this project we will implement an alpha compositing function for raster images using JavaScript.
-You are given an HTML file that implements a simple web-based image compositing application. The video on the following link show how the interface works:
+You are given an HTML file that implements a simple web-based image compositing application. The video on the following link shows how the interface works:
 https://youtu.be/QpwfzYpseeo
+
 The missing part of this application (the part you will implement) is the JavaScript function that composites a foreground image onto a background image using alpha blending. Here how that function looks like:
 
 function composite( bgImg, fgImg, fgOpac, fgPos )
